@@ -1,5 +1,6 @@
-import './App.css'; Calendar;
- 
+import './App.css'; 
+import Calendar from './components/calendar';
+
 const App = () => {
 
   return (
