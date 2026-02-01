@@ -4,7 +4,7 @@ const Calendar = () => {
         <table>
             <thead>
                 <tr>
-                    <th></th>
+                    <th>    </th>
                     <th>Sunday</th>
                     <th>Monday</th>
                     <th>Tuesday</th>
