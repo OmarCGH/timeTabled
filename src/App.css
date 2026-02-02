@@ -16,3 +16,5 @@
   min-width: 320px;
   min-height: 100vh;
 }
+
+.columnGap { display: grid; gap: 20px; }
